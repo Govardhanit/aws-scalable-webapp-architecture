@@ -118,6 +118,7 @@ The setup ensures secure access, scalability, and fault tolerance.
 ## 🔗 Project final outcome
 
 <img width="1919" height="909" alt="Step_26" src="https://github.com/user-attachments/assets/869899f0-b468-4228-82bf-ca192f5d7789" />
+<img width="1918" height="904" alt="Step_29" src="https://github.com/user-attachments/assets/296b2397-3934-44c8-8d07-f3d12249317f" />
 <img width="1674" height="371" alt="Step_30" src="https://github.com/user-attachments/assets/eaabe9c6-bef5-41de-9710-c266a8c8b3f8" />
 
 
