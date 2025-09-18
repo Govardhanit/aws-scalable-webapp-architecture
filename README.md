@@ -36,7 +36,6 @@ The setup ensures secure access, scalability, and fault tolerance.
 
 ## 📸 Screenshots
 
-> _Upload screenshots in the `/screenshots` directory and link them below_
 
 1️⃣ **VPC Overview**  
 <img width="1882" height="760" alt="Step_1" src="https://github.com/user-attachments/assets/95335cd5-928a-4ed6-bfd1-a0a23a9cd779" />
